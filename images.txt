@@ -1,3 +1,4 @@
 xuxueli/xxl-job-admin:3.3.1
 nginx:latest
 nginx:1.14
+nginx:stable-alpine
